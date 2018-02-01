@@ -10,7 +10,7 @@ namespace Lab9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the circle builder.");
+            Console.WriteLine("Welcome to the circle builder!");
             Start();
         }
 
@@ -77,4 +77,4 @@ namespace Lab9
             return again;
         }
     }
-}
+} 
