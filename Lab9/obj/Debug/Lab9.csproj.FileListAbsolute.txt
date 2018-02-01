@@ -1,0 +1,7 @@
+C:\Users\GC Student\Desktop\Grand Circus\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\GC Student\Desktop\Grand Circus\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\GC Student\Desktop\Grand Circus\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\GC Student\Desktop\Grand Circus\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Desktop\Grand Circus\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Desktop\Grand Circus\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\GC Student\Desktop\Grand Circus\Lab9\Lab9\obj\Debug\Lab9.pdb
